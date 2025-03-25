@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7221d630-df19-4987-83c7-4fb16b67d1aa" name="Changes" comment="init linux-repo like commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2-sem2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2-sem2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks.kt" afterDir="false" />
-    </list>
+    <list default="true" id="7221d630-df19-4987-83c7-4fb16b67d1aa" name="Changes" comment="init linux-repo like commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +34,6 @@
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/media/remenod/System/Users/Rememod/Desktop/projects/PALM/lab2-sem2",
     "node.js.detected.package.eslint": "true",
